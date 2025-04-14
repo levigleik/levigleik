@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 [![Linkedin: Levi Gleik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levigleik//)](https://www.linkedin.com/in/levigleik/) 
 [![Portfólio: Levi Gleik]
-((https://img.shields.io/badge/build--brightgreen?label=Portf%C3%B3lio&link=https%3A%2F%2Flevigleik.vercel.app%2F
-))]
-(https://levigleik.vercel.app)
+(https://img.shields.io/badge/build--brightgreen?label=Portf%C3%B3lio&link=https%3A%2F%2Flevigleik.vercel.app%2F
+)
+(https://levigleik.vercel.app)]
