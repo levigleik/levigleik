@@ -24,4 +24,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levigleik&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-[![Linkedin: Josué Lopes](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levigleik//)](https://www.linkedin.com/in/levigleik/) 
+[![Linkedin: Levi Gleik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levigleik//)](https://www.linkedin.com/in/levigleik/) 
+[![Portfólio: Levi Gleik]
+(https://assets.stickpng.com/images/62207cf7944f5cd67921e29e.png)]
+(https://levigleik.vercel.app)
