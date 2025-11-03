@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👨‍💻Levi%20Gleik&desc=Full%20Stack%20|%20ReactJS%20·%20NodeJS%20·%20Typescript&descSize=33&descAlignY=62&fontAlignY=39"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/levigleik" target="_blank">
+  <a href="https://www.linkedin.com/in/levi-gleik" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://levigleik.vercel.app" target="_blank">
