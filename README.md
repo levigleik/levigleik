@@ -29,7 +29,7 @@ Docker · Git · GitHub · Jest · Vitest · Redis · Zod.
 🔗 [levigleik.vercel.app](https://levigleik.vercel.app/)
 
 📫 **Vamos nos conectar?**  
-[![Linkedin: Levi Gleik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levigleik/)](https://www.linkedin.com/in/levigleik/)
+[![Linkedin: Levi Gleik](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levi-gleik/)](https://www.linkedin.com/in/levi-gleik/)
 
 ---
 
